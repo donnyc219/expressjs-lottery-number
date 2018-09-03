@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/donnyc219/expressjs-lottery-number#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
     "express": "^4.16.3"
   }
 }
