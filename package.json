@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-lottery-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnyc219/expressjs-lottery-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donnyc219/expressjs-lottery-number/issues"
+  },
+  "homepage": "https://github.com/donnyc219/expressjs-lottery-number#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
